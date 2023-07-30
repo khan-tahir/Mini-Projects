@@ -1,2 +1,2 @@
 # Mini-Projects
-"Creating some intersting programs!!!
+"Creating some intersting programs!!
